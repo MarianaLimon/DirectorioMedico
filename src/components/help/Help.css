@@ -1,0 +1,20 @@
+.help{
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+.help-text{
+color: #3a3c71;
+font-weight: bold;
+font-size: 20pt;
+margin-bottom: 0px !important;
+text-align: center;
+}
+
+.help-phone{
+color: #fd8748;
+font-weight: bold;
+font-size: 26pt;
+margin-top: 10px !important;
+text-align: center;
+}

@@ -1,0 +1,1283 @@
+{
+    "states": [
+        {
+            "state_name": "Acapulco",
+            "doctors": [
+                {
+                    "doctor_name": "RODRIGUEZ GUILLEN MARGARITA MARÍA",
+                    "phone": "744 193 5900",
+                    "cp": "39640"
+                },
+                {
+                    "doctor_name": "KLELIA TRIGO MOLINA",
+                    "phone": "744 102 9670",
+                    "cp": "39350"
+                },
+                {
+                    "doctor_name": "SILVIA BELLO CALDERÓN",
+                    "phone": "744 170 9859",
+                    "cp": "39690"
+                },
+                {
+                    "doctor_name": "ALEJANDRO MONROY SUÁREZ",
+                    "phone": "744 444 5070",
+                    "cp": "39893"
+                },
+                {
+                    "doctor_name": "DALIA SÁNCHEZ RADILLA",
+                    "phone": "744 265 2890",
+                    "cp": "39770"
+                },
+                {
+                    "doctor_name": "VANESA ANALCO RAMÍREZ",
+                    "phone": "745 102 2079",
+                    "cp": "39890"
+                },
+                {
+                    "doctor_name": "MARIO IVÁN RODRÍGUEZ ARCHUNDIA",
+                    "phone": "744 334 6024",
+                    "cp": "39580"
+                },
+                {
+                    "doctor_name": "ANA CLAUDIA RODRÍGUEZ RAMÍREZ",
+                    "phone": "744 117 8551",
+                    "cp": "39590"
+                },
+                {
+                    "doctor_name": "EVA MARIA REDENDIZ RODILLO",
+                    "phone": "744 172 3837",
+                    "cp": "39715"
+                },
+                {
+                    "doctor_name": "FRANCISCO CASTRO TORRES",
+                    "phone": "744 449 4723",
+                    "cp": "39355"
+                },
+                {
+                    "doctor_name": "JUAN ANTONIO JIMENEZ DIRCIO",
+                    "phone": "747 121 8818",
+                    "cp": "39050"
+                },
+                {
+                    "doctor_name": "VLADIMIR OZUNA LUNA",
+                    "phone": "744 420 0409",
+                    "cp": "39355"
+                }
+            ]
+        },
+        {
+            "state_name": "Aguascalientes",
+            "doctors": [
+                {
+                    "doctor_name": "CECILIA ARLETTE HERNÁNDEZ TAPIA",
+                    "phone": "449 318 6080 / 449 288 1825"
+                }
+            ]
+        },
+        {
+            "state_name": "Baja California",
+            "doctors": [
+                {
+                    "doctor_name": "CURIEL MEZA ALFONSO",
+                    "phone": "686 488 7328",
+                    "cp": "21020"
+                },
+                {
+                    "doctor_name": "GALLARDO URIAS MARTINA",
+                    "phone": "686 565 2654",
+                    "cp": "21200"
+                },
+                {
+                    "doctor_name": "GARIBAY ENRIQUEZ JUAN LAZARO",
+                    "phone": "686 564 0738",
+                    "cp": "21290"
+                },
+                {
+                    "doctor_name": "MAGAÑA VELAZQUEZ OFELIA EUNICE",
+                    "phone": "686 552 2722",
+                    "cp": "21100"
+                },
+                {
+                    "doctor_name": "MEDRANO PEREZ CESAR",
+                    "phone": "696 565 2287",
+                    "cp": "21020"
+                },
+                {
+                    "doctor_name": "NUÑEZ SORIA ANDRES ALONSO",
+                    "phone": "686 554 9207",
+                    "cp": "21020"
+                },
+                {
+                    "doctor_name": "GARIBAY ALDANA LUIS ALBERTO",
+                    "phone": "686 563 3954",
+                    "cp": "21370"
+                },
+                {
+                    "doctor_name": "GARIBAY ALDANA CARLOS ERNESTO",
+                    "phone": "686 563 3954",
+                    "cp": "21370"
+                },
+                {
+                    "doctor_name": "GARIBAY ENRIQUEZ JOSE CARLOS",
+                    "phone": "686 563 3954",
+                    "cp": "21370"
+                },
+                {
+                    "doctor_name": "LINARES DE ANDA ALMA DELIA",
+                    "phone": "686 559 7267",
+                    "cp": "21180"
+                },
+                {
+                    "doctor_name": "MACHUCA HERNANDEZ CLAUDIA HAYDEE",
+                    "phone": "686 116 1268",
+                    "cp": "21259"
+                },
+                {
+                    "doctor_name": "MACHUCA HERNANDEZ STHEFANIA",
+                    "phone": "686 113 9372",
+                    "cp": "21370"
+                },
+                {
+                    "doctor_name": "MACHUCA VAZQUEZ LUIS CRUZ ",
+                    "phone": "686 563 2474",
+                    "cp": "21370 "
+                },
+                {
+                    "doctor_name": "GALLAGA GONZALEZ ROSA DALIA",
+                    "phone": "686 565 1097",
+                    "cp": "21258 "
+                },
+                {
+                    "doctor_name": "RUBIO SOTELO ARTURO",
+                    "phone": "686 946 0911",
+                    "cp": "21399"
+                }
+            ]
+        },
+        {
+            "state_name": "Cancún",
+            "doctors": [
+                {
+                    "doctor_name": "MARIO ALEJANDRO BARRERA CAMARA",
+                    "phone": "998 880 3031",
+                    "cp": "77527"
+                },
+                {
+                    "doctor_name": "JORGE KARLOS MORALES GUEVARA",
+                    "phone": "998 449 0724",
+                    "cp": "77536"
+                },
+                {
+                    "doctor_name": "MARILU BAENA SORALES",
+                    "phone": "998 166 9725",
+                    "cp": "77500"
+                },
+                {
+                    "doctor_name": "RICARDO HECTOR DE LA FUENTE SANCHEZ",
+                    "phone": "998 153 8712",
+                    "cp": "77533"
+                },
+                {
+                    "doctor_name": "CARLOS PRIMITIVO BAQUEDANO VILLEGAS",
+                    "phone": "998 206 8932",
+                    "cp": "77515`"
+                },
+                {
+                    "doctor_name": "BENJAMIN TEODORO BELLO HERRERA",
+                    "phone": "998 293 1935",
+                    "cp": "77509"
+                },
+                {
+                    "doctor_name": "ALEJANDRO ULISES SOLIS GONZALEZ",
+                    "phone": "998 884 1673",
+                    "cp": "77505"
+                },
+                {
+                    "doctor_name": "GILBERTO URBINA GUADARRAMA",
+                    "phone": "998 939 9683",
+                    "cp": "77506"
+                },
+                {
+                    "doctor_name": "KARLA XOCHITL ESPINOSA MADARIAGA",
+                    "phone": "998 121 4787",
+                    "cp": "77533"
+                },
+                {
+                    "doctor_name": "TOMAS RANGEL PISA",
+                    "phone": "998 848 0901",
+                    "cp": "77506"
+                },
+                {
+                    "doctor_name": "NORA REBECA MALIS RAMOS",
+                    "phone": "998 845 1239",
+                    "cp": "77500"
+                },
+                {
+                    "doctor_name": "JOSE SILVESTRE HERRERA RODRIGUEZ",
+                    "phone": "998 578 9151",
+                    "cp": "77533"
+                },
+                {
+                    "doctor_name": "JESUS RABINDRANATH TELLEZ ROMAN",
+                    "phone": "998 252 9551",
+                    "cp": "77509"
+                }
+            ]
+        },
+        {
+            "state_name": "Chihuahua",
+            "doctors": [
+                {
+                    "doctor_name": "BERNARDO EMILIO VALENZUELA SALAZAR",
+                    "phone": "614 597 8783 / 614 138 2260",
+                    "cp": "31203"
+                },
+                {
+                    "doctor_name": "MOISES GUILLERMO CALIXTO BURGOS",
+                    "phone": "639 136 2087",
+                    "cp": "33000"
+                },
+                {
+                    "doctor_name": "ANA GABRIELA VALENZUELA MONTES",
+                    "phone": "614 247 7742",
+                    "cp": "31205"
+                },
+                {
+                    "doctor_name": "CRUZ CAMPOS MARÍA DE JESÚS",
+                    "phone": "614 410 2579",
+                    "cp": "31000"
+                },
+                {
+                    "doctor_name": "CHÁVEZ ALARCÓN MARCELA",
+                    "phone": "614 196 0380",
+                    "cp": "31074"
+                },
+                {
+                    "doctor_name": "QUINTANA ERIVES MARIANA ANGÉLICA",
+                    "phone": "614 235 6711 / 625 138 2194",
+                    "cp": "31500"
+                },
+                {
+                    "doctor_name": "SILVA VILLANUEVA BAÑUELOS",
+                    "phone": "656 562 4992",
+                    "cp": "32030"
+                },
+                {
+                    "doctor_name": "TERESA VIDAL CONTRERAS",
+                    "phone": "656 704 3934",
+                    "cp": "32300"
+                },
+                {
+                    "doctor_name": "ANA KAREN NEVAREZ VILLA",
+                    "phone": "636 107 0167",
+                    "cp": "31700"
+                },
+                {
+                    "doctor_name": "BERNARDO EMILIO VALENZUELA SALAZAR",
+                    "phone": "614 597 8783 / 614 138 2260",
+                    "cp": "31203"
+                },
+                {
+                    "doctor_name": "MOISES GUILLERMO CALIXTO BURGOS",
+                    "phone": "639 136 2087",
+                    "cp": "33000"
+                },
+                {
+                    "doctor_name": "ANA GABRIELA VALENZUELA MONTES",
+                    "phone": "614 247 7742",
+                    "cp": "31205"
+                },
+                {
+                    "doctor_name": "CRUZ CAMPOS MARÍA DE JESÚS",
+                    "phone": "614 410 2579",
+                    "cp": "31000"
+                },
+                {
+                    "doctor_name": "DRA. CHÁVEZ ALARCÓN MARCELA",
+                    "phone": "614 196 0380",
+                    "cp": "31074"
+                },
+                {
+                    "doctor_name": "DRA. QUINTANA ERIVES MARIANA ANGÉLICA",
+                    "phone": "614 235 6711 / 625 138 2194",
+                    "cp": "31500"
+                },
+                {
+                    "doctor_name": "KARLA FAUDOA TREVIZO",
+                    "phone": "656 207 6307",
+                    "cp": "32420"
+                },
+                {
+                    "doctor_name": "RUBIO GUERRERO MARINA",
+                    "phone": "614 414 5070",
+                    "cp": "31203"
+                }
+            ]
+        },
+        {
+            "state_name": "CDMX",
+            "doctors": [
+                {
+                    "doctor_name": "ROCÍO PADILLA GONZALEZ",
+                    "phone": "55 5815 1365",
+                    "cp": "52765"
+                },
+                {
+                    "doctor_name": "GABRIELA REYES PEREZ",
+                    "phone": "55 8164 7193",
+                    "cp": "52765"
+                },
+                {
+                    "doctor_name": "MARCELINA GARCIA ZUÑIGA",
+                    "phone": "55 6426 2965",
+                    "cp": "5730"
+                },
+                {
+                    "doctor_name": "BENJAMIN CARIO CALDERÓN",
+                    "phone": "55 3289 8500",
+                    "cp": "5000"
+                },
+                {
+                    "doctor_name": "HECTOR MANUEL ROSETE",
+                    "phone": "55 2901 3137",
+                    "cp": "1160"
+                },
+                {
+                    "doctor_name": "JOSE ANTONIO GARCIA ESPEJEL",
+                    "phone": "55 8608 1954",
+                    "cp": "1290"
+                },
+                {
+                    "doctor_name": "MARTHA ELISA HUANTE GARCIA",
+                    "phone": "55 6724 0826",
+                    "cp": "3900"
+                },
+                {
+                    "doctor_name": "MARIO MONDRAGÓN ROBLES",
+                    "phone": "55 7158 7822",
+                    "cp": "3900"
+                },
+                {
+                    "doctor_name": "ALEJANDRO OLVERA MARTINEZ",
+                    "phone": "55 2781 3447",
+                    "cp": "1260"
+                },
+                {
+                    "doctor_name": "JOSE LUIS JARAMILLO CAMACHO",
+                    "phone": "55 5149 9397",
+                    "cp": "1400"
+                },
+                {
+                    "doctor_name": "JENNY MESTAS RODRIGUEZ",
+                    "phone": "55 2878 8013, 55 5524 9050",
+                    "cp": "3650"
+                },
+                {
+                    "doctor_name": "VÍCTOR MANUEL HERNÁNDEZ DEL CASTILLO",
+                    "phone": "55 8797 6141, 55 6830 1961",
+                    "cp": "3103"
+                },
+                {
+                    "doctor_name": "EDNA AVILA LEGUIZAMO",
+                    "phone": "55 5564 3686",
+                    "cp": "6700"
+                },
+                {
+                    "doctor_name": "RAPHAEL FRANZONI AGUILAR",
+                    "phone": "55 4066 8459",
+                    "cp": "11350"
+                },
+                {
+                    "doctor_name": "MIGUEL ANGEL SANDOVAL HERNANDEZ",
+                    "phone": "55 7034 0671",
+                    "cp": "06700"
+                },
+                {
+                    "doctor_name": "IRMA VIRIDIANA DOMINGUEZ MOTA",
+                    "phone": "55 5088 1721",
+                    "cp": "4320"
+                },
+                {
+                    "doctor_name": "ELIZABETH CROSSWELL VARGAS",
+                    "phone": "55 6055 4749",
+                    "cp": "3800"
+                },
+                {
+                    "doctor_name": "MANUEL ZUÑIGA PEREA",
+                    "phone": "55 2250 2457",
+                    "cp": "6760"
+                },
+                {
+                    "doctor_name": "NOEMÍ ÁLVAREZ PALESTINO",
+                    "phone": "55 5264 0242 / 55 1450 3936",
+                    "cp": "6100"
+                },
+                {
+                    "doctor_name": "GLORIA PONCE SERNICHARO",
+                    "phone": "55 3996 8649",
+                    "cp": "6700"
+                },
+                {
+                    "doctor_name": "VICTOR MANUEL HERNANDEZ DEL CASTILLO",
+                    "phone": "55 6830 1961/55 6802 8257",
+                    "cp": "3103"
+                }
+            ]
+        },
+        {
+            "state_name": "COAHUILA",
+            "doctors": [
+                {
+                    "doctor_name": "JORGE LUIS MUÑOZ VIGUERA",
+                    "phone": "(878) 782 4888",
+                    "cp": "26000"
+                }
+            ]
+        },
+        {
+            "state_name": "ESTADO DE MÉXICO",
+            "doctors": [
+                {
+                    "doctor_name": "RUGERIO RODRIGUEZ JUANA",
+                    "phone": "55 3430 8190",
+                    "cp": "55700"
+                },
+                {
+                    "doctor_name": "TOVAR MEJIA SERGIO",
+                    "phone": "55 1861 2898",
+                    "cp": "55770"
+                },
+                {
+                    "doctor_name": "OROZCO MARTINEZ ANALENI",
+                    "phone": "55 4596 2883",
+                    "cp": "55740"
+                },
+                {
+                    "doctor_name": "LABRA VILLALOBOS MARIA ISABEL",
+                    "phone": "55 4394 7024",
+                    "cp": "55754"
+                },
+                {
+                    "doctor_name": "AMBRIZ ALVARADO CLAUDIA",
+                    "phone": "55 1300 2085",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "GARCIA GARCIA GILRBERTO ",
+                    "phone": "55 5217 0566",
+                    "cp": "55770"
+                },
+                {
+                    "doctor_name": "ELIEL ARTURO CERERO CASTELLANOS",
+                    "phone": "51 5938 4797",
+                    "cp": "55764"
+                },
+                {
+                    "doctor_name": "SANCHEZ PLATA ANELL VERONICA",
+                    "phone": "55 2949 4098",
+                    "cp": "55720"
+                },
+                {
+                    "doctor_name": "MORENO PINEDA ARMANDO",
+                    "phone": "55 2865 1331",
+                    "cp": "55716"
+                },
+                {
+                    "doctor_name": "GONZAGA GONZALES MARIO",
+                    "phone": "55 5494 6835",
+                    "cp": "55770"
+                },
+                {
+                    "doctor_name": "SALINAS GALVAN EMILIANO",
+                    "phone": "55 1908 1532",
+                    "cp": "55749"
+                },
+                {
+                    "doctor_name": "ALBARRAN GUERRERO ALICIA",
+                    "phone": "77 1143 5357",
+                    "cp": "55754"
+                },
+                {
+                    "doctor_name": "BASTIDA AYALA GUSTAVO",
+                    "phone": "55 2337 1725",
+                    "cp": "55743"
+                },
+                {
+                    "doctor_name": "BELTRAN CABRERA RAFAEL",
+                    "phone": "5516775135",
+                    "cp": "55770"
+                },
+                {
+                    "doctor_name": "GRANADOS ZUÑIGA KISMET ",
+                    "phone": "55 1912 2700/51 5934 7835",
+                    "cp": "55740"
+                },
+                {
+                    "doctor_name": "MARTINEZ URBINA MATEO ",
+                    "phone": "55 5934 6130/55 1693 9146 ",
+                    "cp": "55740"
+                },
+                {
+                    "doctor_name": "BRAVO VARGAS ARGELIA SADAY",
+                    "phone": "55 5430 2010",
+                    "cp": "55767"
+                },
+                {
+                    "doctor_name": "RAMIREZ BASILIO ALEJANDRO",
+                    "phone": "77 1159 1709",
+                    "cp": "55760"
+                },
+                {
+                    "doctor_name": "MORELL GIL ROSA EMMA",
+                    "phone": "55 4390 9913",
+                    "cp": "55770"
+                },
+                {
+                    "doctor_name": "MORALES PONCE JANET ",
+                    "phone": "55 4053 2900",
+                    "cp": "55740"
+                },
+                {
+                    "doctor_name": "OSORNO GARCIA MARIO",
+                    "phone": "55 3853 8224",
+                    "cp": "55767"
+                },
+                {
+                    "doctor_name": "REBOLLEDO GUERRERO ROSENDO",
+                    "phone": "55 4346 7984",
+                    "cp": "55749"
+                },
+                {
+                    "doctor_name": "ROJAS BARRERA RUBEN",
+                    "phone": "55 2824 6263",
+                    "cp": "55740"
+                },
+                {
+                    "doctor_name": "ZAMORA HERNANDEZ MATILDE",
+                    "phone": "55 8570 6415",
+                    "cp": "55740"
+                },
+                {
+                    "doctor_name": "SANCHEZ JUAREZ SERGIO",
+                    "phone": "55 2214 9341/55 5938 1176",
+                    "cp": "55770"
+                },
+                {
+                    "doctor_name": "LAGUNAS CHIMAL GABRIEL ARTURO",
+                    "phone": "55 7940 3692",
+                    "cp": "55760"
+                },
+                {
+                    "doctor_name": "ISLAS CRISTALINAS ALFREDO",
+                    "phone": "55 2330 1430",
+                    "cp": "55700"
+                },
+                {
+                    "doctor_name": "ALMARAZ PONCE JAVIER",
+                    "phone": "55 5210 1527",
+                    "cp": "55717"
+                },
+                {
+                    "doctor_name": "RAMIREZ JIMENEZ LUIS GUILLERMO",
+                    "phone": "55 4373 1352",
+                    "cp": "55717"
+                },
+                {
+                    "doctor_name": "ORTEGA CHICO ADOLFO",
+                    "phone": "55 2504 9834",
+                    "cp": "55720"
+                },
+                {
+                    "doctor_name": "GALICIA GARCIA LORENA",
+                    "phone": "55 4395 9383",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "ROMERO LAVADORES FABIAN EDUARDO",
+                    "phone": "5569307595",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "TOLEDO RUIZ ALEJANDRO RAFAEL",
+                    "phone": "55 6930 7595",
+                    "cp": "55718"
+                },
+                {
+                    "doctor_name": "ESCOBEDO TAVARES ELIZABETH",
+                    "phone": "55 6930 7595",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "DE LA VEGA CONDE JOSE MANUEL",
+                    "phone": "55 6930 7595",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "MEJIA SALAZAR FELIPE",
+                    "phone": "55 1288 1187",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "FLORES PONCE RAMON",
+                    "phone": "55 8574 9811 / 55 5875 4879",
+                    "cp": "55714"
+                },
+                {
+                    "doctor_name": "GUERRERO ARELLANO SILVIA",
+                    "phone": "55 3086 3886",
+                    "cp": "55712"
+                },
+                {
+                    "doctor_name": "MIRANDA SALDIVAR MIGUEL ANGEL ",
+                    "phone": "55 1638 8884",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "RIVERA GARCIA IRMA",
+                    "phone": "5543731352",
+                    "cp": "55717"
+                },
+                {
+                    "doctor_name": "SOLIS LIRA RAULt",
+                    "phone": "55 5403 8482",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "CRUZ VAZQUEZ ARMANDO",
+                    "phone": "55 2727 5188",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "LOPEZ MUÑOS RUBEN",
+                    "phone": "55 5436 7194",
+                    "cp": "55714"
+                },
+                {
+                    "doctor_name": "AMADOR VIDAL NORBERTO",
+                    "phone": "5 9190 8878",
+                    "cp": "55720"
+                },
+                {
+                    "doctor_name": "MEJIA BEAS ALICIA HERMILIA",
+                    "phone": "55 2149 7879 / 55 8733 8018",
+                    "cp": "55709"
+                },
+                {
+                    "doctor_name": "SANCHEZ SANCHEZ JONATHAN",
+                    "phone": "55 4785 2354",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "SOLIS ZEPEDA MARIO",
+                    "phone": "55 5403 8847",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "MEZA DUEÑAS GUSTAVO",
+                    "phone": "55 1850 1920",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "RAMIREZ GARCIA GABRIELA",
+                    "phone": "5558743438",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "GILES SALAZAR DANIEL",
+                    "phone": "55 1628 9942",
+                    "cp": "55730"
+                },
+                {
+                    "doctor_name": "PATLAN DIAZ JUAN",
+                    "phone": "55 1048 5045",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "REYES NUÑEZ ANA MARIA",
+                    "phone": "55 1810 5134",
+                    "cp": "55739"
+                },
+                {
+                    "doctor_name": "VILLANUEVA RUBIO RICARDO",
+                    "phone": "55 5412 9538",
+                    "cp": "55700"
+                },
+                {
+                    "doctor_name": "GUEVARA ARZATE LUZ MARIA",
+                    "phone": "55 2321 5975",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "GARCIA FARFAN MARIA CELIA",
+                    "phone": "55 3519 8919",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "CELORIO GARCIA KARLA",
+                    "phone": "55 3513 9278",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "HERNANDEZ GARCIA GERARDO",
+                    "phone": "55 2324 4254",
+                    "cp": "55710"
+                },
+                {
+                    "doctor_name": "BALANDRANO MENESES RAUL",
+                    "phone": "59 1917 0849",
+                    "cp": "55600"
+                },
+                {
+                    "doctor_name": "GALVEZ HERNANDEZ JOEL",
+                    "phone": "55 4352 5810",
+                    "cp": "55603"
+                },
+                {
+                    "doctor_name": "NAVA JIMENEZ ROSA MARIA",
+                    "phone": "59 1917 0717",
+                    "cp": "55600"
+                },
+                {
+                    "doctor_name": "RODRIGUEZ CHOREÑO FILIPA",
+                    "phone": "55 3511 9503",
+                    "cp": "55600"
+                },
+                {
+                    "doctor_name": "DELGADO RIOS SILVIA NINIVE",
+                    "phone": "55 1963 0755",
+                    "cp": "52948"
+                },
+                {
+                    "doctor_name": "BAUTISTA MALDONADO ALEJANDRO",
+                    "phone": "55 1298 3389",
+                    "cp": "54080"
+                },
+                {
+                    "doctor_name": "NAJERA BALBAZAR FERNANDO",
+                    "phone": "55 6514 5769",
+                    "cp": "54170"
+                },
+                {
+                    "doctor_name": "LOZANO SANCHEZ JULIA ISABEL",
+                    "phone": "55 1360 0518",
+                    "cp": "54050"
+                },
+                {
+                    "doctor_name": "SANCHEZ SAAVEDRA LUIS BENITO",
+                    "phone": "55 5403 7342",
+                    "cp": "52910"
+                },
+                {
+                    "doctor_name": "CAROLINA MIRANDA CONTRERAS",
+                    "phone": "55 2229 0003 / 55 4718 0601",
+                    "cp": "54719"
+                },
+                {
+                    "doctor_name": "JESSICA ANGELICA ANDRADE JASSO",
+                    "phone": "55 2970 8142",
+                    "cp": "54766"
+                },
+                {
+                    "doctor_name": "FERNANDA VIZCAYA MORENO",
+                    "phone": "55 2909 4762V",
+                    "cp": "54800"
+                },
+                {
+                    "doctor_name": "DANITZA DOLORES CEDILLO ROSALES",
+                    "phone": "55 7490 4422",
+                    "cp": "54473"
+                },
+                {
+                    "doctor_name": "LOPEZ HERNANDEZ CRISTINA",
+                    "phone": "55 3758 5158",
+                    "cp": "53228"
+                },
+                {
+                    "doctor_name": "SILVA SANCHEZ VERONICA",
+                    "phone": "55 3407 7780",
+                    "cp": "53427"
+                },
+                {
+                    "doctor_name": "MARTINEZ MONDRAGON MARIANA",
+                    "phone": "55 3240 6363",
+                    "cp": "52994"
+                },
+                {
+                    "doctor_name": "MARTINEZ JUAREZ NORMA ANGELICA",
+                    "phone": "55 5415 2481",
+                    "cp": "53228"
+                },
+                {
+                    "doctor_name": "MARTINEZ BAUTISTA ROSALBA",
+                    "phone": "52843 0339",
+                    "cp": "53000"
+                }
+            ]
+        },
+        {
+            "state_name": "Guanajuato",
+            "doctors": [
+                {
+                    "doctor_name": "MAURO ARREDONDO MORALES",
+                    "phone": "477 962 2264 / 477 106 0459",
+                    "cp": "37410"
+                }
+            ]
+        },
+        {
+            "state_name": "Guerrero",
+            "doctors": [
+                {
+                    "doctor_name": "JORGE MISAEL ROA BENÍTEZ",
+                    "phone": "733 106 3627",
+                    "cp": "40080"
+                },
+                {
+                    "doctor_name": "YAHAIRA VARELA RÍOS",
+                    "phone": "744 136 1456",
+                    "cp": "39390"
+                },
+                {
+                    "doctor_name": "DAVID ADAME RAMÍREZ",
+                    "phone": "747 162 2900",
+                    "cp": "39000"
+                },
+                {
+                    "doctor_name": "CARRANZA MARTÍNEZ SATURNINO",
+                    "phone": "744 438 0046",
+                    "cp": "39770"
+                },
+                {
+                    "doctor_name": "ROGELIO RIVERA MORA",
+                    "phone": "744 485 9258",
+                    "cp": "39670"
+                }
+            ]
+        },
+        {
+            "state_name": "Hidalgo",
+            "doctors": [
+                {
+                    "doctor_name": "SUSANA PONCE MARTÍNEZ",
+                    "phone": "771 189 9032",
+                    "cp": "42094"
+                },
+                {
+                    "doctor_name": "ERIKA MARTÍNEZ GUERRERO",
+                    "phone": "771 123 5634",
+                    "cp": "42185"
+                },
+                {
+                    "doctor_name": "MARA MONTIEL GARCÍA",
+                    "phone": "771 172 4739",
+                    "cp": "42186"
+                },
+                {
+                    "doctor_name": "GUADALUPE BELMONTE TAFOLLA",
+                    "phone": "775 105 6685",
+                    "cp": "43660"
+                }
+            ]
+        },
+        {
+            "state_name": "Michoacán",
+            "doctors": [
+                {
+                    "doctor_name": "ANA LIZBETH CERVANTES VILLA",
+                    "phone": "351 517 5758",
+                    "cp": "59600"
+                },
+                {
+                    "doctor_name": "BEATRIZ YASBEK VILLALÓN JACUINDE",
+                    "phone": "443 120 4535",
+                    "cp": "58140"
+                },
+                {
+                    "doctor_name": "JORGE ANTONIO SAUCEDA MARES",
+                    "phone": "352 164 9106 / 332 255 3250",
+                    "cp": "59300"
+                }
+            ]
+        },
+        {
+            "state_name": "Morelos",
+            "doctors": [
+                {
+                    "doctor_name": "RANDHA TAMINE GUERRA NAVA",
+                    "phone": "777 133 0781",
+                    "cp": "62000"
+                },
+                {
+                    "doctor_name": "MARCOS JERSHAIN CAPISTRAN SANCHEZ",
+                    "phone": "777 161 8680",
+                    "cp": "62000"
+                },
+                {
+                    "doctor_name": "GEORGINA ELENA ACOSTA ROSAS",
+                    "phone": "735 134 9675",
+                    "cp": "62746"
+                },
+                {
+                    "doctor_name": "CRISTINA PERALTA CIPRES",
+                    "phone": "777 259 3464",
+                    "cp": "62240"
+                },
+                {
+                    "doctor_name": "BIBIANO CRISOFORO FLORES TELLEZ",
+                    "phone": "777 223 2817",
+                    "cp": "62000"
+                },
+                {
+                    "doctor_name": "LEONARDO AROYO AGUILA",
+                    "phone": "777 272 5231",
+                    "cp": "62000"
+                },
+                {
+                    "doctor_name": "ROBERTO HEDER BRITO MUNIVE",
+                    "phone": "777 451 9958",
+                    "cp": "62296"
+                },
+                {
+                    "doctor_name": "DENISSE GUTIERREZ RAMIREZ",
+                    "phone": "777 103 0217",
+                    "cp": "62450"
+                },
+                {
+                    "doctor_name": "SERGIO HERNANDEZ SAENZ",
+                    "phone": "777 302 5101",
+                    "cp": "62550"
+                },
+                {
+                    "doctor_name": "ELIZABETH LEYVA JIMENEZ",
+                    "phone": "777 313 2336",
+                    "cp": "62270"
+                },
+                {
+                    "doctor_name": "ELISEO REYES GERONIMO",
+                    "phone": "777 349 4331",
+                    "cp": "62550"
+                },
+                {
+                    "doctor_name": "SILVIA ADRIANA ROJAS LEAL",
+                    "phone": "735 127 3736",
+                    "cp": "62748"
+                },
+                {
+                    "doctor_name": "EDER ABIMAEL PEREZ GUZMAN",
+                    "phone": "777 102 0638",
+                    "cp": "62020"
+                },
+                {
+                    "doctor_name": "SANDRA PEREZ GUZMAN",
+                    "phone": "777 102 0638",
+                    "cp": "62020"
+                },
+                {
+                    "doctor_name": "JUAN ALBERTO CORRALES CASTAÑEDA",
+                    "phone": "777 218 5289",
+                    "cp": "62000"
+                },
+                {
+                    "doctor_name": "RENATA CASTILLO OROZCO",
+                    "phone": "553 642 4644",
+                    "cp": "62447"
+                }
+            ]
+        },
+        {
+            "state_name": "Playa del Carmen",
+            "doctors": [
+                {
+                    "doctor_name": "BRUNO AGUSTIN ESPADAS GALA",
+                    "phone": "984 144 5563",
+                    "cp": "77710"
+                }
+            ]
+        },
+        {
+            "state_name": "Puebla",
+            "doctors": [
+                {
+                    "doctor_name": "LUIS FERNANDO HERREJON CASTILLO",
+                    "phone": "222 181 0600",
+                    "cp": "72160"
+                }
+            ]
+        },
+        {
+            "state_name": "Querétaro",
+            "doctors": [
+                {
+                    "doctor_name": "VLADIMIR GUTIERREZ VELAZQUEZ",
+                    "phone": "442 194 2120",
+                    "cp": "76148"
+                },
+                {
+                    "doctor_name": "DAVID COLLAZO ABOYTES",
+                    "phone": "477 793 3353",
+                    "cp": "76118"
+                },
+                {
+                    "doctor_name": "JOSE DE JESUS ESPINO QUINTANAR",
+                    "phone": "442 230 1596",
+                    "cp": "76000"
+                },
+                {
+                    "doctor_name": "HILARIO AGUILAR MARTINEZ",
+                    "phone": "442 264 7595",
+                    "cp": "76040"
+                },
+                {
+                    "doctor_name": "GUSTAVO ARTURO OCHOA BALDERAS",
+                    "phone": "442 186 3033",
+                    "cp": "76040"
+                },
+                {
+                    "doctor_name": "SALVADOR ORTEGA WRIGHT",
+                    "phone": "442 376 9556",
+                    "cp": "76140"
+                },
+                {
+                    "doctor_name": "RAFAEL MORENO VALENCIA",
+                    "phone": "412 106 3660",
+                    "cp": "76178"
+                },
+                {
+                    "doctor_name": "OSCAR DAVID CASTAÑEDA LERMA",
+                    "phone": "442 467 1162",
+                    "cp": "76100"
+                },
+                {
+                    "doctor_name": "ANGELICA GUADALUPE NIÑO FLORES",
+                    "phone": "442 380 4489",
+                    "cp": "76116"
+                },
+                {
+                    "doctor_name": "JUAN ALFREDO CEDERDORG MORA",
+                    "phone": "442 200 9715",
+                    "cp": "76127"
+                },
+                {
+                    "doctor_name": "LUCERO CHAVEZ HERNANDEZ",
+                    "phone": "442 258 0040",
+                    "cp": "76060"
+                },
+                {
+                    "doctor_name": "CLAUDINE GUASCO HERRERA",
+                    "phone": "442 467 1207",
+                    "cp": "76178"
+                },
+                {
+                    "doctor_name": "HORACIO DURAN BERMUDEZ",
+                    "phone": "442 249 7935",
+                    "cp": "76110"
+                },
+                {
+                    "doctor_name": "HORACIO DURAN BERMUDEZ",
+                    "phone": "442 249 7935",
+                    "cp": "76110"
+                },
+                {
+                    "doctor_name": "FABIOLA SANCHEZ TELLEZ",
+                    "phone": "442 241 3454",
+                    "cp": "76127"
+                },
+                {
+                    "doctor_name": "CARLA JABER CASTILLO",
+                    "phone": "442 224 9788",
+                    "cp": "76090"
+                },
+                {
+                    "doctor_name": "LETICIA BOLLAS MARTINEZ",
+                    "phone": "442 123 6168",
+                    "cp": "76116"
+                },
+                {
+                    "doctor_name": "HOMERO REGUERA MARTINEZ",
+                    "phone": "442 226 2309",
+                    "cp": "76130"
+                },
+                {
+                    "doctor_name": "ADRIANA QUEZADA ALBA",
+                    "phone": "442 419 2800",
+                    "cp": "76050"
+                },
+                {
+                    "doctor_name": "YANETH GARFIAS MARTINEZ",
+                    "phone": "442 155 5126",
+                    "cp": "76000"
+                },
+                {
+                    "doctor_name": "GERALDO CARRILLO TREVIÑO",
+                    "phone": "442 177 0702",
+                    "cp": "76125"
+                },
+                {
+                    "doctor_name": "DANIEL ALEJANDRO GONZALEZ ALDAPE",
+                    "phone": "442 435 3889",
+                    "cp": "76040"
+                },
+                {
+                    "doctor_name": "MARIANA LOPEZ ESCAMILLA",
+                    "phone": "442 343 5077",
+                    "cp": "76090"
+                },
+                {
+                    "doctor_name": "FABIOLA MENDEZ COBOS",
+                    "phone": "555 404 7546",
+                    "cp": "76230"
+                },
+                {
+                    "doctor_name": "ROBERTO RAUDA ROJAS",
+                    "phone": "442 195 7052",
+                    "cp": "76000"
+                },
+                {
+                    "doctor_name": "KITZIA DAJIMER ALACION LEON",
+                    "phone": "442 169 6800",
+                    "cp": "76125"
+                },
+                {
+                    "doctor_name": "CONNY DENISSE HENZE OROZPE",
+                    "phone": "442 633 1222",
+                    "cp": "76269"
+                },
+                {
+                    "doctor_name": "NORMA DELLY CABRERA SANCHEZ",
+                    "phone": "442 248 4968",
+                    "cp": "76020"
+                },
+                {
+                    "doctor_name": "NATALIA ACOSTA BENITEZ",
+                    "phone": "427 274 2036",
+                    "cp": "76806"
+                },
+                {
+                    "doctor_name": "GABY YIBIRIN BOU HALLOUN",
+                    "phone": "442 962 3055",
+                    "cp": "76180"
+                },
+                {
+                    "doctor_name": "LILIANA CRUZ GALVAN",
+                    "phone": "442 213 7902",
+                    "cp": "76020"
+                },
+                {
+                    "doctor_name": "JOSE ANTONIO LOARCA PALACIOS",
+                    "phone": "442 212 3664",
+                    "cp": "76020"
+                },
+                {
+                    "doctor_name": "ALEJANDRO CUENCA COSS",
+                    "phone": "442 245 214",
+                    "cp": "76090"
+                },
+                {
+                    "doctor_name": "JESICA SARAI BERNAL GARDUÑO",
+                    "phone": "442 196 7304",
+                    "cp": "76180"
+                },
+                {
+                    "doctor_name": "ALEJANDRO MONTAÑO JIMENEZ",
+                    "phone": "442 160 1065",
+                    "cp": "76180"
+                },
+                {
+                    "doctor_name": "HELBERT A SEGOVIA GOMEZ",
+                    "phone": "442 962 6642",
+                    "cp": "76090"
+                }
+            ]
+        },
+        {
+            "state_name": "San Luis Potosi",
+            "doctors": [
+                {
+                    "doctor_name": "CRISTINA TAPIA HERNÁNDEZ",
+                    "phone": "444 814 4282 / 444 812 5270",
+                    "cp": "78000"
+                },
+                {
+                    "doctor_name": "CRISTINA ALICIA ROQUE SANCHEZ",
+                    "phone": "444 103 5868",
+                    "cp": "78399"
+                }
+            ]
+        },
+        {
+            "state_name": "Tamaulipas",
+            "doctors": [
+                {
+                    "doctor_name": "ALFREDO BECHO DEL FIERRO",
+                    "phone": "868 819 4447",
+                    "cp": "87380"
+                }
+            ]
+        },
+        {
+            "state_name": "Tijuana",
+            "doctors": [
+                {
+                    "doctor_name": "AMEZOLA BALAGUER JAIME",
+                    "phone": "664 380 4981",
+                    "cp": "22044"
+                },
+                {
+                    "doctor_name": "BECERRA FIGUEROA BERTHA IMELDA",
+                    "phone": "664 900 7429",
+                    "cp": "22010"
+                },
+                {
+                    "doctor_name": "ÁVILA ROJAS CITLALI",
+                    "phone": "664 882 7701",
+                    "cp": "22015"
+                },
+                {
+                    "doctor_name": "MARIO IVÁN QUINTERO RODRÍGUEZ",
+                    "phone": "664 207 5813 / 664 363 5900",
+                    "cp": "22010"
+                }
+            ]
+        },
+        {
+            "state_name": "Tlaxcala",
+            "doctors": [
+                {
+                    "doctor_name": "CARVAJAL AGUILAR CYNTHIA",
+                    "phone": "246 101 5624",
+                    "cp": "90160"
+                }
+            ]
+        },
+        {
+            "state_name": "Veracruz",
+            "doctors": [
+                {
+                    "doctor_name": "VIRGINIA ANGELA COBO-LOSEY TREVIÑO",
+                    "phone": "229 416 811",
+                    "cp": "94299"
+                }
+            ]
+        },
+        {
+            "state_name": "Yucatán",
+            "doctors": [
+                {
+                    "doctor_name": "ROGER MEZQUITA LEANA",
+                    "phone": "999 422 6727/ 999 192 6663",
+                    "cp": "97179"
+                },
+                {
+                    "doctor_name": "LIDUVINA MARÍN GÓMEZ",
+                    "phone": "999 943 0036 / 999 127 8046",
+                    "cp": "97138"
+                },
+                {
+                    "doctor_name": "MIGUEL ARTURO POPOCA BOLIO",
+                    "phone": "999 944 1237, 999 121 2896",
+                    "cp": "97130"
+                }
+            ]
+        }
+    ]
+}

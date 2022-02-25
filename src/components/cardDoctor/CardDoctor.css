@@ -1,0 +1,26 @@
+.info-dr{
+  padding-top: .7rem;
+  padding-bottom: .7rem;
+}
+  
+.data-dr{
+  font-weight: 500;
+  line-height: 22px;
+  margin-bottom: 2px;
+    text-transform: capitalize;
+  color: #888888;
+  text-align: center;
+}
+  
+.data-dr span{
+  font-weight: bold;
+  color: #7376b4;
+}
+  
+.on{
+  display: block;
+}
+
+.off{
+  display: none;
+}
