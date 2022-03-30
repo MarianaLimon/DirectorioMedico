@@ -54,3 +54,8 @@ ul.legales {
 .footer p{
   margin-left: -20px;
 }
+
+.footer p.legals{
+  margin-left: 0px;
+  font-size: 14px;
+}

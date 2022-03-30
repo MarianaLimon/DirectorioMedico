@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './Banner.css';
-import logo from '../../assets/images/logo.png';
+/* import logo from '../../assets/images/logo.png'; */
 import modelo from '../../assets/images/mujer.png';
 /* import esferas from '../../assets/images/bolitas.png'; */
 
@@ -18,10 +18,10 @@ class Banner extends Component {
                                 <div className='centered'>
                                     <div className='container'>
                                         <div className='row'>
-                                            <div className='animated slideInRight content col-sm-12 col-md-12 col-lg-9'>
-                                                <a href='https://medix.com.mx/'>
+                                            <div className='animated slideInRight content col-sm-12 col-md-12 col-lg-9 pt-3 pb-3'>
+                                                {/* <a href='https://medix.com.mx/'>
                                                     <img src={logo} id="logo" alt='banner-directorio-medix-logo' />
-                                                </a>
+                                                </a> */}
                                                 <div id="introtext" className="col-sm-12 col-md-12 col-lg-12">
                                                     <h2 className='title-banner'>
                                                         ¿Buscas<br />

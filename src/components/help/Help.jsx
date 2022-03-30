@@ -10,7 +10,7 @@ class Help extends Component {
                     Llámanos para ayudarte
                 </h2>
                 <h2 className='help-phone'>
-                    800 366 3349
+                    <a className='tel' href='tel:800 366 3349'>800 366 3349</a>
                 </h2>
             </div>
         );

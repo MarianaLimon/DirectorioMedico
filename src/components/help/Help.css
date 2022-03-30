@@ -18,3 +18,8 @@ font-size: 26pt;
 margin-top: 10px !important;
 text-align: center;
 }
+
+a.tel{
+    color: #fd8748;
+    text-decoration: none;
+}
