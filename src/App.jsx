@@ -1,6 +1,5 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-
 import './assets/css/App.css';
 
 //Mis componentes
@@ -30,4 +29,3 @@ class App extends React.Component {
 }
 
 export default App;
-

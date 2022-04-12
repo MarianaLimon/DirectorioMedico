@@ -1,100 +1,100 @@
 section {
-    padding: 42px 0;
-    font-family: 'Montserrat', sans-serif;
-    
-  }
-  
-  section#header {
-    background-color: #3c3f77;
-  }
-  
-  section#header #logo {
-    width: 100px;
-  }
-  
-  section#header #introtext {
-    color: #fff;
-    padding-top: 42px;
-    margin-left:1rem;
-  }
-  
-  section#header #introtext h2 {
-    font-weight: bold !important;
-  }
-  
-  section#header #introtext h2 span {
-    color: #fd8748;
-  }
-  
-  section#header #introtext p {
-    padding-top: 22px;
-  }
-  
-  section#header #col-two {
-    background-image: url("../../assets/images/bolitas.png");
-    background-size: 100% 100%;
-    background-size: contain;
-    background-repeat: no-repeat;
-  }
-  
-  section#header #col-two img {
-    display: inherit;
-    width: 100%;
-    max-width: 300px;
-    margin: 0 auto;
-  }
-  
-  @media screen and (min-width: 768px) {
-    section#header #col-two img {
-      display: none;
-    }
-  }
-  
-  section#header #col-two:after {
-    position: absolute;
-    display: none;
-    background: url("../../assets/images/mujer.png") no-repeat;
-    background-size: contain;
-    background-position: top center;
-    content: " ";
-    height: 100%;
-    width: 100%;
-    z-index: 2;
-    -webkit-animation: 1.5s ease-out 0s 1 slideInFromLeft;
-            animation: 1.5s ease-out 0s 1 slideInFromLeft;
-  }
-  
+  padding: 42px 0;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+section#header {
+  background-color: #3c3f77;
+}
+
+section#header #logo {
+  width: 100px;
+}
+
+section#header #introtext {
+  color: #fff;
+  padding-top: 42px;
+  margin-left: 1rem;
+}
+
+section#header #introtext h2 {
+  font-weight: bold !important;
+}
+
+section#header #introtext h2 span {
+  color: #fd8748;
+}
+
+section#header #introtext p {
+  padding-top: 22px;
+}
+
+section#header #col-two {
+  background-image: url("../../assets/images/bolitas.png");
+  background-size: 100% 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+section#header #col-two img {
+  display: inherit;
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
 @media screen and (min-width: 768px) {
-    section#header #col-two:after {
-        display: inherit;
-        background-position: center center;
-        height: 75%;
-        width: 50%;
-        top: 6%;
-        left: 50%;
-    }
-
-    section{
-        padding-left: 10%;
-        padding-right: 10%;
-    }
+  section#header #col-two img {
+    display: none;
+  }
 }
 
-.title-banner{
-color: #fff;
-text-align: left;
-font-size: 2.5rem;
-font-weight: bold;
+section#header #col-two:after {
+  position: absolute;
+  display: none;
+  background: url("../../assets/images/mujer.png") no-repeat;
+  background-size: contain;
+  background-position: top center;
+  content: " ";
+  height: 100%;
+  width: 100%;
+  z-index: 2;
+  -webkit-animation: 1.5s ease-out 0s 1 slideInFromLeft;
+  animation: 1.5s ease-out 0s 1 slideInFromLeft;
+}
+
+@media screen and (min-width: 768px) {
+  section#header #col-two:after {
+    display: inherit;
+    background-position: center center;
+    height: 75%;
+    width: 50%;
+    top: 6%;
+    left: 50%;
+  }
+
+  section {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+}
+
+.title-banner {
+  color: #fff;
+  text-align: left;
+  font-size: 2.5rem;
+  font-weight: bold;
 
 }
 
-.title-banner span{
-    color: #fd8748;
+.title-banner span {
+  color: #fd8748;
 }
 
-.text-banner{
-    padding-top: 22px;
-    color: #fff;
+.text-banner {
+  padding-top: 22px;
+  color: #fff;
 }
 
 /* .banner{
@@ -180,3 +180,6 @@ font-weight: bold;
     }
 } */
 
+section#header #col-two {
+  pointer-events: none;
+}
